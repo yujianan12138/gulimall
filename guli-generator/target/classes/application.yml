@@ -11,7 +11,7 @@ spring:
     username: root
     password: root
     #oracle配置
-    #    driverClassName: oracle.jdbc.OracleDriver
+    #    driverClassName: oracle.jdbkc.OracleDriver
     #    url: jdbc:oracle:thin:@47.100.206.162:1521:xe
     #    username: guli
     #    password: 123456
